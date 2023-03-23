@@ -1,0 +1,43 @@
+{
+    "activities": [
+        {
+            "name": "activity_tracker.py - Automatic Time Tracking Tool - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-03-23 12:36:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-03-23 12:36:11"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-03-23 12:36:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2023-03-23 12:36:11"
+                }
+            ]
+        },
+        {
+            "name": "youtube.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-03-23 12:36:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2023-03-23 12:36:11"
+                }
+            ]
+        }
+    ]
+}
