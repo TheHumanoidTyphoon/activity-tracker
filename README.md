@@ -2,7 +2,7 @@
 The Activity Tracker is a Python program that tracks the amount of time spent on various activities, such as working on a project or browsing the internet. It records the start and end times for each activity and stores them in a JSON file, which can be used to visualize the duration of each activity over time.
 
 ## Preview
-<img width=100% src="images/pong-preview.gif">
+<img width=100% src="activity-tracker-preview.gif">
 
 ## Prerequisites
 Before running the Activity Tracker, you must have the following dependencies installed:
