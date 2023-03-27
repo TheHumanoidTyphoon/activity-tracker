@@ -5,11 +5,35 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2023-03-23 12:36:13",
+                    "end_time": "2023-03-26 21:35:11",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2023-03-23 12:36:11"
+                    "seconds": 3,
+                    "start_time": "2023-03-26 21:35:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-03-26 21:35:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2023-03-26 21:35:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-03-26 21:35:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 40,
+                    "start_time": "2023-03-26 21:35:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-03-26 21:36:09",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 1,
+                    "start_time": "2023-03-26 21:35:08"
                 }
             ]
         },
@@ -18,11 +42,43 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2023-03-23 12:36:22",
+                    "end_time": "2023-03-26 21:35:20",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 11,
-                    "start_time": "2023-03-23 12:36:11"
+                    "start_time": "2023-03-26 21:35:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-03-26 21:35:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 24,
+                    "start_time": "2023-03-26 21:35:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-03-26 21:35:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 35,
+                    "start_time": "2023-03-26 21:35:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-03-26 21:36:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 52,
+                    "start_time": "2023-03-26 21:35:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-03-26 21:36:30",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 21,
+                    "start_time": "2023-03-26 21:35:08"
                 }
             ]
         },
@@ -31,11 +87,24 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2023-03-23 12:36:33",
+                    "end_time": "2023-03-26 21:35:31",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 22,
-                    "start_time": "2023-03-23 12:36:11"
+                    "start_time": "2023-03-26 21:35:08"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - Automatic Time Tracking Tool - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-03-26 21:36:16",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 8,
+                    "start_time": "2023-03-26 21:35:08"
                 }
             ]
         }

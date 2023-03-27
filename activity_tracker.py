@@ -114,16 +114,17 @@ class ActivityList:
         }
 
     def plot_activities(self):
-        for activity in self.activities:
-            start_times = [entry.start_time for entry in activity.time_entries]
-            durations = [entry.total_time.total_seconds() / SECONDS_PER_HOUR
-                         for entry in activity.time_entries]
-            plt.plot(start_times, durations, label=activity.name, alpha=ALPHA)
-
-        plt.xlabel('Time')
-        plt.ylabel('Duration (hours)')
-        plt.legend(loc='upper right')
+        num_activities = len(self.activities)
+        fig, axs = plt.subplots(1, num_activities, figsize=(15, 5))
+        for i, activity in enumerate(self.activities):
+            all_durations = [entry.total_time.total_seconds() / SECONDS_PER_HOUR
+                            for entry in activity.time_entries]
+            axs[i].hist(all_durations, alpha=ALPHA)
+            axs[i].set_title(activity.name)
+            axs[i].set_xlabel('Duration (hours)')
+            axs[i].set_ylabel('Frequency')
         plt.show()
+
 
 
 def url_to_name(url):
